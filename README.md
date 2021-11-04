@@ -1,12 +1,11 @@
 # Prep
-//Prep for call &amp; initializing with README
 
 class Apple
 {
 
     public void eat() {
   
-    System.out.println("See he is eating apple");
+    System.out.println("See, he is eating apple");
   
     }
 }
